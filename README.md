@@ -1,0 +1,2 @@
+# fastportscan
+masscan和namp结合实现全端口快速扫描，修改至onetwopunch项目bash脚本
